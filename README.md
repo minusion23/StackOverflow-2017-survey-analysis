@@ -19,7 +19,7 @@ There is  1 notebook available here to showcase work related to the above questi
 
 
 Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available <a href = "https://medium.com/@Jan_Aspirant/programming-languages-developers-are-interested-in-and-their-impact-on-their-job-satisfaction-4c87a4d87e3"> here </a>.
 
 Licensing, Authors, Acknowledgements
 Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
